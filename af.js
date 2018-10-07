@@ -1,0 +1,1 @@
+"use strict";!function(e,t,s,r){var a,n=e.getElementsByTagName(t)[0];if(!e.getElementById(r)){a=e.createElement(t);a.id=r;a.async=true;a.src=s+"?"+1*new Date;n.parentNode.insertBefore(a,n)}}(document,"script","//assets.lyes.tw/articlefooter.js","af");
