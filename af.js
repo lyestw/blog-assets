@@ -1,1 +1,1 @@
-"use strict";!function(e,t,s,r){var a,n=e.getElementsByTagName(t)[0];if(!e.getElementById(r)){a=e.createElement(t);a.id=r;a.async=true;a.src=s+"?"+1*new Date;n.parentNode.insertBefore(a,n)}}(document,"script","//assets.lyes.tw/articlefooter.js","af");
+"use strict";!function(e,t){var s=e.getElementsByTagName(t)[0];if(!e.getElementById("af")){(t=e.createElement(t)).id="af";t.async=true;t.src="//assets.lyes.tw/articlefooter.js?"+ +new Date;s.parentNode.insertBefore(t,s)}}(document,"script");
